@@ -1,4 +1,4 @@
-# DSA - Stationery Inventroy System
+# DSA - Stationery Inventory System
 
 A system coded in C programming using the concept of Data Structure and Algorithm.
 
